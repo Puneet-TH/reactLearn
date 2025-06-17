@@ -9,7 +9,7 @@ function Footer() {
                     <div className="mb-6 md:mb-0">
                         <Link to="/" className="flex items-center">
                             <img
-                                src="https://alexharkness.com/wp-content/uploads/2020/06/logo-2.png"
+                                src="https://i0.wp.com/egi.com.sg/wp-content/uploads/2023/08/unnamed-6.png?fit=640%2C420&ssl=1"
                                 className="mr-3 h-16"
                                 alt="Logo"
                             />
@@ -71,9 +71,9 @@ function Footer() {
                 <hr className="my-6 border-gray-200 sm:mx-auto lg:my-8" />
                 <div className="sm:flex sm:items-center sm:justify-between">
                     <span className="text-sm text-gray-500 sm:text-center">
-                        © 2023
-                        <a href="https://hiteshchoudhary.com/" className="hover:underline">
-                            hiteshchoudhary
+                        © 2025 
+                        <a href="https://www.liesofp.com/en-us" className="hover:underline">
+                             Lies of P
                         </a>
                         . All Rights Reserved.
                     </span>
