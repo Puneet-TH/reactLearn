@@ -1,0 +1,11 @@
+@import "tailwindcss";
+body{
+  text-align: center;
+  text-transform: uppercase;
+  font-family: "arial", sans-serif;
+  background-color: antiquewhite;
+}
+h1{
+  margin-top: 10px;
+  font-weight: 700;
+}
