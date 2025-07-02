@@ -12,6 +12,7 @@ import AuthLayout from './AuthLayout'
 import Button from './Button'
 import Input from './Input'
 import Select from "./Select";
+import Hero from "./hero/Hero";
 export{
     Header,
     Footer,
@@ -27,4 +28,5 @@ export{
     Button,
     Input,
     Select,
+    Hero,
 }

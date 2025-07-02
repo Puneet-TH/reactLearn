@@ -5,6 +5,7 @@ import{login, logout} from "./store/authSlice"
 import './App.css'
 import { Header, Footer } from './components'
 import { Outlet } from 'react-router-dom'
+import { Hero } from './components'
 
 function App() {
     const [loading, setLoading] = useState(true)
